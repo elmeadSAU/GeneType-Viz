@@ -1,0 +1,9 @@
+# Ignore raw personal genomic data files
+data/*.txt
+
+# Ignore generated images
+*.png
+
+# Ignore Python cache directories
+__pycache__/
+src/__pycache__/
