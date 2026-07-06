@@ -53,3 +53,4 @@ python main.py
 
 To run the newly integrated color-vision variance profile scanner:
 python tetrachromacy_check.py
+```
