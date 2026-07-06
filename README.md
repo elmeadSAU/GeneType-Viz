@@ -46,11 +46,15 @@ and ensure your virtual environment is active:
 ```bash
 # Install dependencies
 pip install -r requirements.txt
+```
 
 ### 2. Running the Analyzers
 To run the primary blood compatibility and antigen pipeline:
+```bash
 python main.py
+```
 
 To run the newly integrated color-vision variance profile scanner:
+```bash
 python tetrachromacy_check.py
 ```
